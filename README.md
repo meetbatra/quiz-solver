@@ -6,21 +6,6 @@
 
 An intelligent, autonomous agent built with LangGraph and LangChain that solves multi-step quiz tasks involving web scraping, data processing, code execution, and API interactions. The system uses Google's Gemini 2.5 Flash model to orchestrate tool usage and make decisions autonomously.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Tools & Capabilities](#tools--capabilities)
-- [Docker Deployment](#docker-deployment)
-- [How It Works](#how-it-works)
-- [License](#license)
-
 ## 🔍 Overview
 
 This autonomous agent solves multi-step quiz tasks by:
